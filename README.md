@@ -1,8 +1,10 @@
 <div align="center">
 
-# 🏥 CSJ Health Connect on [EazyUI-Framework]
+# 🏥 CSJSS Healthy Kit [EazyUI-Framework]
 ## By CSJ Tech (明愛聖若瑟中學)
-<img src="https://img.icons8.com/fluent/150/heart-health.png" width="90" alt="School Logo">
+<br><br>
+<img src="https://github.com/AriesLinux/CSJSS-Healthy-Kit/blob/main/school_logo.jpg" width="450" alt="School Logo">
+<br><br><br><br><br><br><br><br><br><br><br><br>
 <img src="https://img.icons8.com/fluent/150/heart-health.png" width="120" alt="App Logo">
 
 ![Platform](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android&logoColor=white)
