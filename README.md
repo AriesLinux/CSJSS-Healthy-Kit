@@ -93,7 +93,7 @@
 
 ## 👏 開發團隊與鳴謝 (Credits)
 
-* **主辦學校**: [明愛聖若瑟中學](https://www.csj.edu.hk/)
+* **主辦學校**: [明愛聖若瑟中學](https://www.csjss.edu.hk/)
 * **核心開發**: DONG ALLEN SHUHANG（同學），LUO DEMING（同學），XIN QICHENG（同學），JERRY ZHOU JINGHAN（同學），XIE HAOLIN（同學）
 * **感謝**: LEE WY（老師指導及支持)，Chapman（導師指導及支持），Tsui Lai Ha（老師測試及支持），You（支持及測試）
 
