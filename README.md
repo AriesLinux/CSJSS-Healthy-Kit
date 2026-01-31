@@ -17,7 +17,6 @@
   <strong>基於 EazyUI 自研架構與 MIT App Inventor 開發的智能健康監測APP，依賴iRED公司開發的Smart Learning HEALTH KIT硬件</strong>
 </p>
 
-[功能簡介](#-主要功能) | [介面架構](#-eazyui-自研架構) | [開發團隊](#-開發團隊與鳴謝)
 
 </div>
 
