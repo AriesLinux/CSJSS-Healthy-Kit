@@ -5,7 +5,8 @@
 <br><br><br>
 <img src="https://github.com/AriesLinux/CSJSS-Healthy-Kit/blob/main/school_logo.jpg" width="450" alt="School Logo">
 <br><br><br>
-<img src="https://github.com/AriesLinux/CSJSS-Healthy-Kit/blob/main/CSJSS%20Healthy%20Kit.png" width="450" alt="App Logo">
+<img src="https://github.com/AriesLinux/CSJSS-Healthy-Kit/blob/main/CSJSS%20Healthy%20Kit.png" width="150" alt="App Logo">
+<br><br>
 
 ![Platform](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android&logoColor=white)
 ![Engine](https://img.shields.io/badge/Engine-MIT_App_Inventor-orange?style=for-the-badge)
