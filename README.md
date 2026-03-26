@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏥 CSJSS Healthy Kit [EazyUI-Framework]
+# 🏥 CSJSS Healthy Kit
 ## By CSJ Tech (明愛聖若瑟中學)
 <br><br><br>
 <img src="https://github.com/AriesLinux/CSJSS-Healthy-Kit/blob/main/school_logo.jpg" width="450" alt="School Logo">
