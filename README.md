@@ -56,7 +56,7 @@
 <br><br>
 **EazyUI** 是我們針對 MIT App Inventor 原生介面美觀度不足所開發的一套解決方案：
 
-1.  **組件封裝**: 透過Canva APP模擬設計UI組件，并爲老人家單獨設計排版
+1.  **組件封裝**: 透過 **Canva** 模擬設計 UI 組件，并爲老人家單獨設計排版
 2.  **視覺語言**: 採用一功能一顔色設計，並將 UI 元素與吉祥物交互深度整合
 3.  **流暢體驗**: 優化了 Screen 切換邏輯，減少在低配 Android 設備上的載入感，并加入適當的動畫
 
@@ -68,13 +68,13 @@
 <br><br>
 <img src="https://github.com/AriesLinux/CSJSS-Healthy-Kit/blob/main/3Luckin.png" width="450" alt="3Luckin">
 <br><br>
-* **💖 氧仔 (Oxy)**
+* **💖 ~~氧仔 (Oxy)~~ 現名 氧氧 (Yang Yang) —— 聽起來充滿活力，像是在大口呼吸**
   - **負責工具**: 血氧量測
   - **互動**: 當血氧低於 95% 時，氧仔會發出擔心的訊息框表情並提醒深呼吸（未開啓AI分析功能）
 * **🌡️ 度度 (Tempy)**
   - **負責工具**: 體溫量測
   - **互動**: 即時檢測額頭溫度或耳内溫度，并作出反應（未開啓AI分析功能）
-* **📈 脈動仔 (Pulso)**
+* **📈 ~~脈動仔 (Pulso)~~  現名 穩穩 (Wen Wen) —— 核心訴求就是血壓平穩，給人安心感**
   - **負責工具**: 血壓與脈搏
   - **互動**: 多個模塊顯示血壓並繪製波形圖，并有雲端保存功能
 
@@ -97,10 +97,10 @@
 
 * **主辦學校**: [明愛聖若瑟中學](https://www.csjss.edu.hk/)
 * **核心開發**: DONG ALLEN SHUHANG（同學），LUO DEMING（同學），XIN QICHENG（同學），JERRY ZHOU JINGHAN（同學），XIE HAOLIN（同學）
-* **感謝**: LEE WY（老師指導及支持)，Chapman（導師指導及支持），Tsui Lai Ha（老師測試及支持），You（支持及測試）
+* **感謝**: LEE WY（老師指導及支持)，Chapman（導師指導及支持），Tsui Lai Ha（**主研健康與社會關懷學** 老師測試及提供專業意見並支持），You（支持及測試）
 
 ---
-## 🤝 Support and production philosophy：
+## 🤝 **Support and production philosophy：**
 <img src="https://github.com/AriesLinux/CSJSS-Healthy-Kit/blob/main/app_iREd_Logo.png" width="300" alt="app_iREd_Logo">
 <img src="https://github.com/AriesLinux/CSJSS-Healthy-Kit/blob/main/HealthKitLogo.png" width="300" alt="HealthKitLogo">
 
